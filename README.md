@@ -1,1 +1,1 @@
-# python_tutorial
+# ejercicios de: https://aprendeconalf.es/docencia/python/ejercicios/
